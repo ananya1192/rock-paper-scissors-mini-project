@@ -9,19 +9,19 @@ Open index.html in your browser.
 
 Click one of the buttons:
 
-Rock
+- Rock
 
-Paper
+- Paper
 
-Scissors
+- Scissors
 
 Each click plays one round against the computer.
 
 The game displays:
 
-The result of the round
+- The result of the round
 
-The running score for both player and computer
+- The running score for both player and computer
 
 The game ends when either the player or the computer reaches 5 points, and a winner is announced.
 
@@ -41,17 +41,17 @@ The game ends when either the player or the computer reaches 5 points, and a win
 
 🧠 JavaScript Concepts Used
 
-DOM manipulation (querySelector, textContent)
+- DOM manipulation (querySelector, textContent)
 
-Event handling (addEventListener)
+- Event handling (addEventListener)
 
-Functions and parameters
+- Functions and parameters
 
-Conditional logic (if / else)
+- Conditional logic (if / else)
 
-Randomization using Math.random()
+- Randomization using Math.random()
 
-Use of data-* attributes for cleaner event handling
+- Use of data-* attributes for cleaner event handling
 
 🗂️ File Structure
 rockpaperscissors/
@@ -61,23 +61,23 @@ rockpaperscissors/
 
 ⚡ Learning Goals
 
-Transition from console-based JavaScript to interactive UI-based applications
+- Transition from console-based JavaScript to interactive UI-based applications
 
-Understand event-driven programming
+- Understand event-driven programming
 
-Practice DOM manipulation
+- Practice DOM manipulation
 
-Learn how to refactor existing code for new requirements
+- Learn how to refactor existing code for new requirements
 
-Use Git branches for feature development (rps-ui)
+- Use Git branches for feature development (rps-ui)
 
 💡 Notes
 
-This project was refactored from a console-based version to a UI-based version.
+- This project was refactored from a console-based version to a UI-based version.
 
-The game stops accepting input once a winner is declared.
+- The game stops accepting input once a winner is declared.
 
-Styling is intentionally minimal to focus on JavaScript fundamentals.
+- Styling is intentionally minimal to focus on JavaScript fundamentals.
 
 📌 License
 
